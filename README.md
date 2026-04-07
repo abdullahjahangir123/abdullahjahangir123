@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdullah Jahangir</h1>
 <h3 align="center">Aspiring AI & Automation Engineer | Python | FastAPI | n8n | Agentic AI</h3>
 
-<p align="center">
-  <img src="abdullah_photo.png" alt="Abdullah Jahangir" width="260" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0, 200, 150, 0.6);"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Automation+Engineer;Building+Intelligent+Agents+with+LangChain;Automation+Expert+with+n8n;Turning+Ideas+into+Real+AI+Solutions" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 📞 Contact Information
 **Abdullah Jahangir**  
-📍 17/42-B, Manzoor Colony, Karachi, 75300, Pakistan  
+📍 Karachi, Pakistan  
 📱 +92 317 0288875  
 ✉️ abdullah.vertex@gmail.com  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](http://abdullah-ai.lovable.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-jahangir-vertex/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahjahangir123)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](http://abdullah-ai.lovable.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-jahangir-vertex/)
 
 ---
 
@@ -33,17 +24,17 @@ Strong problem-solver, quick learner, and highly motivated to deliver efficient,
 ### 🛠️ Tech Skills & AI Stack
 
 **Programming & Development**  
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mongodb" /><br/>
 
 **AI & Machine Learning**  
 <img src="https://skillicons.dev/icons?i=langchain,huggingface,ollama" />  
 **Gemini • OpenAI • FAISS • YOLOv8**
 
 **Automation & Tools**  
-<img src="https://skillicons.dev/icons?i=n8n,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=n8n,docker,git,linux,vscode" /><br/>
 
-**Web & Others**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+**Web & Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/>
 
 **Productivity**  
 MS Office (Word, Excel, PowerPoint)
@@ -99,7 +90,7 @@ Karachi, Pakistan
 - **Adaptive Web Driven AI Chatbot** — Context-aware chatbot  
 - **Web Typing Speed Application** — Real-time feedback web app  
 
-*(Full project links in your GitHub repositories)*
+*(Full project links available in my GitHub repositories)*
 
 ---
 
@@ -117,4 +108,4 @@ Karachi, Pakistan
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=flat" />
 </p>
-<p align="center">⭐ If you like my work, feel free to star my repositories! ⭐</p>
+<p align="center">⭐ If you like my work,
