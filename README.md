@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="Abdullah Jahangir" width="300" src="https://github.com/abdullahjahangir123/abdullahjahangir123/blob/main/abdullah_photo.png?raw=true" style="border-radius: 16px;"/>
+<img align="right" alt="Abdullah Jahangir" width="250" src="https://github.com/abdullahjahangir123.png" style="border-radius: 50%;"/>
 
 ### 🚀 About Me
 
@@ -16,7 +16,7 @@
 - 💼 Working at **ETS (EvengerstechSolution)**
 - 🤖 Passionate about **AI, Data Science & Automation (n8n)**
 - 📍 Based in **Karachi, Pakistan**
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74151e44444145434440341319151d185a171b19">[email&#160;protected]</a>**
+- 📫 Reach me at **aj0051704@gmail.com**
 - ⚡ Fun fact: *I build AI agents that work while I sleep!*
 
 ---
@@ -70,7 +70,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="/cdn-cgi/l/email-protection#4c2d267c7c797d7b7c780c2b212d2520622f2321">
+  <a href="mailto:aj0051704@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/abdullahjahangir123">
@@ -81,4 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/
+  <img src="https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=flat" />
+</p>
+
+<p align="center">⭐ <i>If you like my projects, give them a star!</i> ⭐</p>
