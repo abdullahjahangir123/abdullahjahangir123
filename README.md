@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Jahangir</h1>
 <h3 align="center">Aspiring AI & Automation Engineer | Python | FastAPI | n8n | Agentic AI</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Automation+Engineer;Building+Intelligent+Agents+with+LangChain;Automation+Expert+with+n8n;Turning+Ideas+into+Real+AI+Solutions" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 📞 Contact Information
@@ -27,7 +31,7 @@ Strong problem-solver, quick learner, and highly motivated to deliver efficient,
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mongodb" /><br/>
 
 **AI & Machine Learning**  
-<img src="https://skillicons.dev/icons?i=langchain,huggingface,ollama" />  
+<img src="https://skillicons.dev/icons?i=langchain,huggingface,ollama" /><br/>
 **Gemini • OpenAI • FAISS • YOLOv8**
 
 **Automation & Tools**  
@@ -108,4 +112,4 @@ Karachi, Pakistan
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=flat" />
 </p>
-<p align="center">⭐ If you like my work,
+<p align="center">⭐ If you like my work, feel free to star my repositories! ⭐</p>
