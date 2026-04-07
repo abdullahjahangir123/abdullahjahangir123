@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Jahangir</h1>
 <h3 align="center">🐍 Python | ⚡ FastAPI | 🤖 AI Developer from Pakistan</h3>
+<img width="1024" height="1336" alt="abdullah_photo" src="http://github.com/abdullahjahangir123/flight_delay_project/blob/main/abdullah_photo.png" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Python+%26+FastAPI+Developer;AI+%26+Automation+Engineer;Data+Science+Enthusiast;n8n+Automation+Expert" alt="Typing SVG" />
