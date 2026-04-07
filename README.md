@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Jahangir</h1>
 <h3 align="center">🐍 Python | ⚡ FastAPI | 🤖 AI Developer from Pakistan</h3>
-<img width="1024" height="1336" alt="abdullah_photo" src="abdullah_photo.png" />
+
+<p align="center">
+  <img src="abdullah_photo.png" alt="Abdullah Jahangir" width="250" style="border-radius: 50%;"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Python+%26+FastAPI+Developer;AI+%26+Automation+Engineer;Data+Science+Enthusiast;n8n+Automation+Expert" alt="Typing SVG" />
@@ -8,11 +11,7 @@
 
 ---
 
-<img align="right" alt="Abdullah Jahangir" width="250" src="![Uploading abdullah_photo.png…]()
-" style="border-radius: 50%;"/>
-
 ### 🚀 About Me
-
 - 🔭 Currently working on **AI Agents & Automation Projects**
 - 🌱 Learning **LangChain, n8n, and Advanced AI Systems**
 - 💼 Working at **ETS (EvengerstechSolution)**
@@ -24,7 +23,6 @@
 ---
 
 ### 🛠️ Tech Skills
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" /><br/>
@@ -34,19 +32,17 @@
 ---
 
 ### 🤖 AI & Automation Stack
-
-| Tool | Use |
-|------|-----|
-| 🦜 LangChain | AI Agent Development |
-| 🔁 n8n | Workflow Automation |
-| 🤗 HuggingFace | AI Model Integration |
-| ⚡ Gemini / OpenAI | LLM APIs |
-| 🌊 Streamlit | AI App UI |
+| Tool          | Use                          |
+|---------------|------------------------------|
+| 🦜 LangChain  | AI Agent Development         |
+| 🔁 n8n        | Workflow Automation          |
+| 🤗 HuggingFace| AI Model Integration         |
+| ⚡ Gemini / OpenAI | LLM APIs                |
+| 🌊 Streamlit  | AI App UI                    |
 
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🤖 [adaptive-company-chatbot](https://github.com/abdullahjahangir123/adaptive-company-chatbot) | AI chatbot that scrapes websites & chats with real content | Python, Gemini, Streamlit |
@@ -57,12 +53,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahjahangir123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjahangir123&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjahangir123&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
@@ -70,7 +64,6 @@
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
   <a href="mailto:aj0051704@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -85,5 +78,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahjahangir123&label=Profile+Views&color=00C896&style=flat" />
 </p>
-
 <p align="center">⭐ <i>If you like my projects, give them a star!</i> ⭐</p>
