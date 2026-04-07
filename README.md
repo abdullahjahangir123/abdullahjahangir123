@@ -7,7 +7,8 @@
 
 ---
 
-<img align="right" alt="Abdullah Jahangir" width="250" src="https://github.com/abdullahjahangir123.png" style="border-radius: 50%;"/>
+<img align="right" alt="Abdullah Jahangir" width="250" src="![Uploading abdullah_photo.png…]()
+" style="border-radius: 50%;"/>
 
 ### 🚀 About Me
 
